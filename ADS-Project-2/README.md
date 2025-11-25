@@ -235,5 +235,4 @@ The dataset contains 403 car configurations with:
 This project is part of an academic assignment.
 
 ## Author
-
-Pranav Arora
+HIMANSHU BANSAL
