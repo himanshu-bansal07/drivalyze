@@ -1,0 +1,545 @@
+brand,model,year,fuel_type,transmission,ex_showroom_price
+Ford,EcoSport,2020,Diesel,Manual,1099900
+Ford,EcoSport,2020,Petrol,Automatic,1149900
+Ford,EcoSport,2020,Petrol,Manual,899900
+Ford,EcoSport,2024,Diesel,Manual,1152783
+Ford,EcoSport,2024,Petrol,Automatic,1203471
+Ford,EcoSport,2024,Petrol,Manual,928688
+Ford,EcoSport,2025,Diesel,Manual,1218076
+Ford,EcoSport,2025,Petrol,Automatic,1283716
+Ford,EcoSport,2025,Petrol,Manual,979370
+Honda,Amaze,2022,Diesel,Manual,999900
+Honda,Amaze,2022,Petrol,Automatic,929900
+Honda,Amaze,2022,Petrol,Manual,729900
+Honda,Amaze,2024,Diesel,Manual,1039950
+Honda,Amaze,2024,Petrol,Automatic,973215
+Honda,Amaze,2024,Petrol,Manual,761462
+Honda,Amaze,2025,Diesel,Manual,1105636
+Honda,Amaze,2025,Petrol,Automatic,1026108
+Honda,Amaze,2025,Petrol,Manual,805262
+Honda,City,2022,Petrol,Automatic,1399000
+Honda,City,2022,Petrol,Manual,1199000
+Honda,City,2024,Petrol,Automatic,1455269
+Honda,City,2024,Petrol,Manual,1255392
+Honda,City,2025,Petrol,Automatic,1554881
+Honda,City,2025,Petrol,Manual,1342109
+Honda,WR-V,2021,Diesel,Manual,1199000
+Honda,WR-V,2021,Petrol,Automatic,1199000
+Honda,WR-V,2021,Petrol,Manual,949900
+Honda,WR-V,2024,Diesel,Manual,1256725
+Honda,WR-V,2024,Petrol,Automatic,1237098
+Honda,WR-V,2024,Petrol,Manual,991898
+Honda,WR-V,2025,Diesel,Manual,1325061
+Honda,WR-V,2025,Petrol,Automatic,1313669
+Honda,WR-V,2025,Petrol,Manual,1048178
+Hyundai,Alcazar,2022,Petrol,Automatic,2149900
+Hyundai,Alcazar,2022,Petrol,Manual,1849000
+Hyundai,Alcazar,2024,Petrol,Automatic,2223695
+Hyundai,Alcazar,2024,Petrol,Manual,1940596
+Hyundai,Alcazar,2025,Petrol,Automatic,2356497
+Hyundai,Alcazar,2025,Petrol,Manual,2061595
+Hyundai,Creta,2021,Diesel,Automatic,1849900
+Hyundai,Creta,2021,Diesel,Manual,1349900
+Hyundai,Creta,2021,Petrol,Automatic,1399900
+Hyundai,Creta,2021,Petrol,Manual,1099000
+Hyundai,Creta,2024,Diesel,Automatic,1939558
+Hyundai,Creta,2024,Diesel,Manual,1393808
+Hyundai,Creta,2024,Petrol,Automatic,1465612
+Hyundai,Creta,2024,Petrol,Manual,1151363
+Hyundai,Creta,2025,Diesel,Automatic,2069773
+Hyundai,Creta,2025,Diesel,Manual,1475943
+Hyundai,Creta,2025,Petrol,Automatic,1561034
+Hyundai,Creta,2025,Petrol,Manual,1228149
+Hyundai,Tucson,2021,Diesel,Automatic,3399900
+Hyundai,Tucson,2021,Petrol,Automatic,3099000
+Hyundai,Tucson,2024,Diesel,Automatic,3539190
+Hyundai,Tucson,2024,Petrol,Automatic,3230633
+Hyundai,Tucson,2025,Diesel,Automatic,3769570
+Hyundai,Tucson,2025,Petrol,Automatic,3397615
+Hyundai,Venue,2023,Petrol,Automatic,1149900
+Hyundai,Venue,2023,Petrol,Manual,799900
+Hyundai,Venue,2024,Petrol,Automatic,1196454
+Hyundai,Venue,2024,Petrol,Manual,826412
+Hyundai,Venue,2025,Petrol,Automatic,1269725
+Hyundai,Venue,2025,Petrol,Manual,877380
+Hyundai,Verna,2021,Diesel,Manual,1389900
+Hyundai,Verna,2021,Petrol,Automatic,1449900
+Hyundai,Verna,2021,Petrol,Manual,1099000
+Hyundai,Verna,2024,Diesel,Manual,1451507
+Hyundai,Verna,2024,Petrol,Automatic,1504361
+Hyundai,Verna,2024,Petrol,Manual,1135692
+Hyundai,Verna,2025,Diesel,Manual,1545269
+Hyundai,Verna,2025,Petrol,Automatic,1595784
+Hyundai,Verna,2025,Petrol,Manual,1198700
+Hyundai,i20,2021,Diesel,Manual,1049900
+Hyundai,i20,2021,Petrol,Automatic,1049900
+Hyundai,i20,2021,Petrol,Manual,799900
+Hyundai,i20,2024,Diesel,Manual,1081559
+Hyundai,i20,2024,Petrol,Automatic,1088425
+Hyundai,i20,2024,Petrol,Manual,824299
+Hyundai,i20,2025,Diesel,Manual,1142802
+Hyundai,i20,2025,Petrol,Automatic,1162359
+Hyundai,i20,2025,Petrol,Manual,879478
+Jeep,Compass,2019,Diesel,Automatic,2699000
+Jeep,Compass,2019,Diesel,Manual,2399000
+Jeep,Compass,2019,Petrol,Automatic,2399000
+Jeep,Compass,2019,Petrol,Manual,2099000
+Jeep,Compass,2024,Diesel,Automatic,2787773
+Jeep,Compass,2024,Diesel,Manual,2476657
+Jeep,Compass,2024,Petrol,Automatic,2494436
+Jeep,Compass,2024,Petrol,Manual,2175132
+Jeep,Compass,2025,Diesel,Automatic,2945773
+Jeep,Compass,2025,Diesel,Manual,2608562
+Jeep,Compass,2025,Petrol,Automatic,2624049
+Jeep,Compass,2025,Petrol,Manual,2325867
+Jeep,Meridian,2020,Diesel,Automatic,3799000
+Jeep,Meridian,2020,Diesel,Manual,3499000
+Jeep,Meridian,2020,Petrol,Automatic,3499000
+Jeep,Meridian,2020,Petrol,Manual,3199000
+Jeep,Meridian,2024,Diesel,Automatic,3975294
+Jeep,Meridian,2024,Diesel,Manual,3663126
+Jeep,Meridian,2024,Petrol,Automatic,3654634
+Jeep,Meridian,2024,Petrol,Manual,3298670
+Jeep,Meridian,2025,Diesel,Automatic,4237281
+Jeep,Meridian,2025,Diesel,Manual,3855551
+Jeep,Meridian,2025,Petrol,Automatic,3895048
+Jeep,Meridian,2025,Petrol,Manual,3471685
+Kia,Carnival,2022,Diesel,Automatic,3299000
+Kia,Carnival,2022,Petrol,Automatic,2999000
+Kia,Carnival,2024,Diesel,Automatic,3413241
+Kia,Carnival,2024,Petrol,Automatic,3121850
+Kia,Carnival,2025,Diesel,Automatic,3643893
+Kia,Carnival,2025,Petrol,Automatic,3312912
+Kia,EV6,2022,Electric,Automatic,6099000
+Kia,EV6,2024,Electric,Automatic,6333892
+Kia,EV6,2025,Electric,Automatic,6728523
+Kia,Seltos,2020,Diesel,Automatic,1699000
+Kia,Seltos,2020,Diesel,Manual,1349000
+Kia,Seltos,2020,Petrol,Automatic,1349000
+Kia,Seltos,2020,Petrol,Manual,1149000
+Kia,Seltos,2024,Diesel,Automatic,1775630
+Kia,Seltos,2024,Diesel,Manual,1411433
+Kia,Seltos,2024,Petrol,Automatic,1405114
+Kia,Seltos,2024,Petrol,Manual,1206092
+Kia,Seltos,2025,Diesel,Automatic,1877524
+Kia,Seltos,2025,Diesel,Manual,1501657
+Kia,Seltos,2025,Petrol,Automatic,1481274
+Kia,Seltos,2025,Petrol,Manual,1280082
+Kia,Sonet,2023,Diesel,Automatic,1449000
+Kia,Sonet,2023,Diesel,Manual,1099000
+Kia,Sonet,2023,Petrol,Automatic,1149000
+Kia,Sonet,2023,Petrol,Manual,849900
+Kia,Sonet,2024,Diesel,Automatic,1509877
+Kia,Sonet,2024,Diesel,Manual,1137013
+Kia,Sonet,2024,Petrol,Automatic,1201567
+Kia,Sonet,2024,Petrol,Manual,875632
+Kia,Sonet,2025,Diesel,Automatic,1602240
+Kia,Sonet,2025,Diesel,Manual,1212882
+Kia,Sonet,2025,Petrol,Automatic,1275960
+Kia,Sonet,2025,Petrol,Manual,931862
+MG,Astor,2023,Petrol,Automatic,1399000
+MG,Astor,2023,Petrol,Manual,1099000
+MG,Astor,2024,Petrol,Automatic,1456345
+MG,Astor,2024,Petrol,Manual,1142599
+MG,Astor,2025,Petrol,Automatic,1529337
+MG,Astor,2025,Petrol,Manual,1201713
+MG,Hector,2023,Diesel,Automatic,2099000
+MG,Hector,2023,Diesel,Manual,1699000
+MG,Hector,2023,Petrol,Automatic,1699000
+MG,Hector,2023,Petrol,Manual,1499000
+MG,Hector,2024,Diesel,Automatic,2171374
+MG,Hector,2024,Diesel,Manual,1778094
+MG,Hector,2024,Petrol,Automatic,1778083
+MG,Hector,2024,Petrol,Manual,1544726
+MG,Hector,2025,Diesel,Automatic,2286602
+MG,Hector,2025,Diesel,Manual,1867096
+MG,Hector,2025,Petrol,Automatic,1872183
+MG,Hector,2025,Petrol,Manual,1641628
+MG,Hector Plus,2021,Diesel,Manual,1899000
+MG,Hector Plus,2021,Petrol,Automatic,1899000
+MG,Hector Plus,2021,Petrol,Manual,1699000
+MG,Hector Plus,2024,Diesel,Manual,1967581
+MG,Hector Plus,2024,Petrol,Automatic,1982059
+MG,Hector Plus,2024,Petrol,Manual,1765991
+MG,Hector Plus,2025,Diesel,Manual,2097239
+MG,Hector Plus,2025,Petrol,Automatic,2117378
+MG,Hector Plus,2025,Petrol,Manual,1869950
+MG,ZS EV,2022,Electric,Automatic,2399000
+MG,ZS EV,2024,Electric,Automatic,2512826
+MG,ZS EV,2025,Electric,Automatic,2672412
+Mahindra,Bolero,2022,Diesel,Manual,1049900
+Mahindra,Bolero,2022,Petrol,Manual,959900
+Mahindra,Bolero,2024,Diesel,Manual,1090714
+Mahindra,Bolero,2024,Petrol,Manual,1005491
+Mahindra,Bolero,2025,Diesel,Manual,1154118
+Mahindra,Bolero,2025,Petrol,Manual,1059448
+Mahindra,Scorpio,2022,Diesel,Automatic,1949000
+Mahindra,Scorpio,2022,Diesel,Manual,1499000
+Mahindra,Scorpio,2022,Petrol,Manual,1399000
+Mahindra,Scorpio,2024,Diesel,Automatic,2038518
+Mahindra,Scorpio,2024,Diesel,Manual,1557942
+Mahindra,Scorpio,2024,Petrol,Manual,1456731
+Mahindra,Scorpio,2025,Diesel,Automatic,2166773
+Mahindra,Scorpio,2025,Diesel,Manual,1647115
+Mahindra,Scorpio,2025,Petrol,Manual,1534113
+Mahindra,Thar,2023,Diesel,Automatic,1949000
+Mahindra,Thar,2023,Diesel,Manual,1599000
+Mahindra,Thar,2023,Petrol,Automatic,1649000
+Mahindra,Thar,2023,Petrol,Manual,1349000
+Mahindra,Thar,2024,Diesel,Automatic,2021570
+Mahindra,Thar,2024,Diesel,Manual,1663516
+Mahindra,Thar,2024,Petrol,Automatic,1728296
+Mahindra,Thar,2024,Petrol,Manual,1404406
+Mahindra,Thar,2025,Diesel,Automatic,2148129
+Mahindra,Thar,2025,Diesel,Manual,1777816
+Mahindra,Thar,2025,Petrol,Automatic,1829263
+Mahindra,Thar,2025,Petrol,Manual,1493956
+Mahindra,XUV700,2019,Diesel,Automatic,2299000
+Mahindra,XUV700,2019,Diesel,Manual,1699000
+Mahindra,XUV700,2019,Petrol,Automatic,1999000
+Mahindra,XUV700,2019,Petrol,Manual,1399000
+Mahindra,XUV700,2024,Diesel,Automatic,2395291
+Mahindra,XUV700,2024,Diesel,Manual,1758091
+Mahindra,XUV700,2024,Petrol,Automatic,2069207
+Mahindra,XUV700,2024,Petrol,Manual,1441440
+Mahindra,XUV700,2025,Diesel,Automatic,2559337
+Mahindra,XUV700,2025,Diesel,Manual,1877349
+Mahindra,XUV700,2025,Petrol,Automatic,2198557
+Mahindra,XUV700,2025,Petrol,Manual,1540219
+Maruti Suzuki,Baleno,2023,Petrol,Automatic,874900
+Maruti Suzuki,Baleno,2023,Petrol,Manual,666900
+Maruti Suzuki,Baleno,2024,Petrol,Automatic,909931
+Maruti Suzuki,Baleno,2024,Petrol,Manual,697520
+Maruti Suzuki,Baleno,2025,Petrol,Automatic,966129
+Maruti Suzuki,Baleno,2025,Petrol,Manual,739706
+Maruti Suzuki,Dzire,2021,Diesel,Manual,789900
+Maruti Suzuki,Dzire,2021,Petrol,Automatic,795900
+Maruti Suzuki,Dzire,2021,Petrol,Manual,615900
+Maruti Suzuki,Dzire,2024,Diesel,Manual,813991
+Maruti Suzuki,Dzire,2024,Petrol,Automatic,834444
+Maruti Suzuki,Dzire,2024,Petrol,Manual,646119
+Maruti Suzuki,Dzire,2025,Diesel,Manual,863947
+Maruti Suzuki,Dzire,2025,Petrol,Automatic,888425
+Maruti Suzuki,Dzire,2025,Petrol,Manual,680813
+Maruti Suzuki,Ertiga,2023,Petrol,Automatic,1189900
+Maruti Suzuki,Ertiga,2023,Petrol,Manual,859900
+Maruti Suzuki,Ertiga,2024,Petrol,Automatic,1230939
+Maruti Suzuki,Ertiga,2024,Petrol,Manual,895454
+Maruti Suzuki,Ertiga,2025,Petrol,Automatic,1300135
+Maruti Suzuki,Ertiga,2025,Petrol,Manual,951974
+Maruti Suzuki,Swift,2022,Diesel,Manual,829900
+Maruti Suzuki,Swift,2022,Petrol,Automatic,819900
+Maruti Suzuki,Swift,2022,Petrol,Manual,599900
+Maruti Suzuki,Swift,2024,Diesel,Manual,864919
+Maruti Suzuki,Swift,2024,Petrol,Automatic,857324
+Maruti Suzuki,Swift,2024,Petrol,Manual,621021
+Maruti Suzuki,Swift,2025,Diesel,Manual,912871
+Maruti Suzuki,Swift,2025,Petrol,Automatic,913477
+Maruti Suzuki,Swift,2025,Petrol,Manual,660048
+Maruti Suzuki,Vitara Brezza,2023,Petrol,Automatic,1119900
+Maruti Suzuki,Vitara Brezza,2023,Petrol,Manual,799900
+Maruti Suzuki,Vitara Brezza,2024,Petrol,Automatic,1160052
+Maruti Suzuki,Vitara Brezza,2024,Petrol,Manual,830021
+Maruti Suzuki,Vitara Brezza,2025,Petrol,Automatic,1239810
+Maruti Suzuki,Vitara Brezza,2025,Petrol,Manual,882485
+Maruti Suzuki,XL6,2020,Petrol,Automatic,1399900
+Maruti Suzuki,XL6,2020,Petrol,Manual,1199900
+Maruti Suzuki,XL6,2024,Petrol,Automatic,1458164
+Maruti Suzuki,XL6,2024,Petrol,Manual,1258133
+Maruti Suzuki,XL6,2025,Petrol,Automatic,1549342
+Maruti Suzuki,XL6,2025,Petrol,Manual,1333135
+Nissan,Magnite,2022,Petrol,Automatic,899900
+Nissan,Magnite,2022,Petrol,Manual,599900
+Nissan,Magnite,2022,Turbo,Automatic,1299000
+Nissan,Magnite,2022,Turbo,Manual,979900
+Nissan,Magnite,2024,Petrol,Automatic,936770
+Nissan,Magnite,2024,Petrol,Manual,628760
+Nissan,Magnite,2024,Turbo,Automatic,1347703
+Nissan,Magnite,2024,Turbo,Manual,1016253
+Nissan,Magnite,2025,Petrol,Automatic,985842
+Nissan,Magnite,2025,Petrol,Manual,664888
+Nissan,Magnite,2025,Turbo,Automatic,1417985
+Nissan,Magnite,2025,Turbo,Manual,1073781
+Renault,Duster,2021,Diesel,Manual,1249900
+Renault,Duster,2021,Petrol,Automatic,1249900
+Renault,Duster,2021,Petrol,Manual,1049900
+Renault,Duster,2024,Diesel,Manual,1307588
+Renault,Duster,2024,Petrol,Automatic,1307266
+Renault,Duster,2024,Petrol,Manual,1082633
+Renault,Duster,2025,Diesel,Manual,1388293
+Renault,Duster,2025,Petrol,Automatic,1386942
+Renault,Duster,2025,Petrol,Manual,1141755
+Renault,Kiger,2022,Petrol,Automatic,999900
+Renault,Kiger,2022,Petrol,Manual,599900
+Renault,Kiger,2022,Turbo,Manual,1049900
+Renault,Kiger,2024,Petrol,Automatic,1042012
+Renault,Kiger,2024,Petrol,Manual,624766
+Renault,Kiger,2024,Turbo,Manual,1089490
+Renault,Kiger,2025,Petrol,Automatic,1097716
+Renault,Kiger,2025,Petrol,Manual,657781
+Renault,Kiger,2025,Turbo,Manual,1161527
+Renault,Kwid,2019,Petrol,Automatic,599900
+Renault,Kwid,2019,Petrol,Manual,449900
+Renault,Kwid,2024,Petrol,Automatic,622759
+Renault,Kwid,2024,Petrol,Manual,465337
+Renault,Kwid,2025,Petrol,Automatic,662460
+Renault,Kwid,2025,Petrol,Manual,494257
+Skoda,Kushaq,2020,Petrol,Automatic,1899000
+Skoda,Kushaq,2020,Petrol,Manual,1249900
+Skoda,Kushaq,2024,Petrol,Automatic,1972983
+Skoda,Kushaq,2024,Petrol,Manual,1311235
+Skoda,Kushaq,2025,Petrol,Automatic,2085391
+Skoda,Kushaq,2025,Petrol,Manual,1396304
+Skoda,Rapid,2022,Diesel,Manual,1149900
+Skoda,Rapid,2022,Petrol,Automatic,1149900
+Skoda,Rapid,2022,Petrol,Manual,849900
+Skoda,Rapid,2024,Diesel,Manual,1185065
+Skoda,Rapid,2024,Petrol,Automatic,1206540
+Skoda,Rapid,2024,Petrol,Manual,875939
+Skoda,Rapid,2025,Diesel,Manual,1255867
+Skoda,Rapid,2025,Petrol,Automatic,1288677
+Skoda,Rapid,2025,Petrol,Manual,936659
+Tata,Altroz,2023,Diesel,Manual,859900
+Tata,Altroz,2023,Petrol,Automatic,939900
+Tata,Altroz,2023,Petrol,Manual,629900
+Tata,Altroz,2024,Diesel,Manual,888487
+Tata,Altroz,2024,Petrol,Automatic,978579
+Tata,Altroz,2024,Petrol,Manual,653801
+Tata,Altroz,2025,Diesel,Manual,938019
+Tata,Altroz,2025,Petrol,Automatic,1028136
+Tata,Altroz,2025,Petrol,Manual,692000
+Tata,Harrier,2020,Diesel,Automatic,2249900
+Tata,Harrier,2020,Diesel,Manual,1799000
+Tata,Harrier,2020,Petrol,Manual,1599000
+Tata,Harrier,2024,Diesel,Automatic,2353010
+Tata,Harrier,2024,Diesel,Manual,1872801
+Tata,Harrier,2024,Petrol,Manual,1658988
+Tata,Harrier,2025,Diesel,Automatic,2494206
+Tata,Harrier,2025,Diesel,Manual,1985305
+Tata,Harrier,2025,Petrol,Manual,1774281
+Tata,Nexon,2023,Electric,Automatic,1499900
+Tata,Nexon,2023,Petrol,Automatic,1149900
+Tata,Nexon,2023,Petrol,Automatic,1149900
+Tata,Nexon,2023,Petrol,Manual,799900
+Tata,Nexon,2024,Electric,Automatic,1547259
+Tata,Nexon,2024,Petrol,Automatic,1193836
+Tata,Nexon,2024,Petrol,Manual,827137
+Tata,Nexon,2025,Electric,Automatic,1635017
+Tata,Nexon,2025,Petrol,Automatic,1253624
+Tata,Nexon,2025,Petrol,Manual,877085
+Tata,Punch,2020,CNG,Manual,749900
+Tata,Punch,2020,Petrol,Automatic,759900
+Tata,Punch,2020,Petrol,Manual,609900
+Tata,Punch,2024,CNG,Manual,784296
+Tata,Punch,2024,Petrol,Automatic,797021
+Tata,Punch,2024,Petrol,Manual,633007
+Tata,Punch,2025,CNG,Manual,828314
+Tata,Punch,2025,Petrol,Automatic,841237
+Tata,Punch,2025,Petrol,Manual,669993
+Tata,Safari,2022,Diesel,Automatic,2499900
+Tata,Safari,2022,Diesel,Manual,1999000
+Tata,Safari,2022,Petrol,Manual,1699000
+Tata,Safari,2024,Diesel,Automatic,2575286
+Tata,Safari,2024,Diesel,Manual,2081480
+Tata,Safari,2024,Petrol,Manual,1761658
+Tata,Safari,2025,Diesel,Automatic,2746943
+Tata,Safari,2025,Diesel,Manual,2195530
+Tata,Safari,2025,Petrol,Manual,1859697
+Toyota,Fortuner,2021,Diesel,Automatic,3799000
+Toyota,Fortuner,2021,Diesel,Manual,3499000
+Toyota,Fortuner,2021,Petrol,Automatic,3499000
+Toyota,Fortuner,2021,Petrol,Manual,3299000
+Toyota,Fortuner,2024,Diesel,Automatic,3961885
+Toyota,Fortuner,2024,Diesel,Manual,3653358
+Toyota,Fortuner,2024,Petrol,Automatic,3657777
+Toyota,Fortuner,2024,Petrol,Manual,3436278
+Toyota,Fortuner,2025,Diesel,Automatic,4187203
+Toyota,Fortuner,2025,Diesel,Manual,3846081
+Toyota,Fortuner,2025,Petrol,Automatic,3891893
+Toyota,Fortuner,2025,Petrol,Manual,3660927
+Toyota,Glanza,2021,Petrol,Automatic,869900
+Toyota,Glanza,2021,Petrol,Manual,669900
+Toyota,Glanza,2024,Petrol,Automatic,904692
+Toyota,Glanza,2024,Petrol,Manual,693203
+Toyota,Glanza,2025,Petrol,Automatic,963009
+Toyota,Glanza,2025,Petrol,Manual,732486
+Toyota,Innova Crysta,2019,Diesel,Automatic,2299000
+Toyota,Innova Crysta,2019,Diesel,Manual,1999000
+Toyota,Innova Crysta,2019,Petrol,Automatic,2099000
+Toyota,Innova Crysta,2019,Petrol,Manual,1799000
+Toyota,Innova Crysta,2024,Diesel,Automatic,2394672
+Toyota,Innova Crysta,2024,Diesel,Manual,2063255
+Toyota,Innova Crysta,2024,Petrol,Automatic,2195637
+Toyota,Innova Crysta,2024,Petrol,Manual,1865865
+Toyota,Innova Crysta,2025,Diesel,Automatic,2555230
+Toyota,Innova Crysta,2025,Diesel,Manual,2197087
+Toyota,Innova Crysta,2025,Petrol,Automatic,2316612
+Toyota,Innova Crysta,2025,Petrol,Manual,1986125
+Toyota,Urban Cruiser,2020,Petrol,Automatic,1299000
+Toyota,Urban Cruiser,2020,Petrol,Manual,999900
+Toyota,Urban Cruiser,2024,Petrol,Automatic,1352703
+Toyota,Urban Cruiser,2024,Petrol,Manual,1035635
+Toyota,Urban Cruiser,2025,Petrol,Automatic,1424646
+Toyota,Urban Cruiser,2025,Petrol,Manual,1096412
+Volkswagen,Polo,2022,Petrol,Automatic,999900
+Volkswagen,Polo,2022,Petrol,Manual,749900
+Volkswagen,Polo,2024,Petrol,Automatic,1043359
+Volkswagen,Polo,2024,Petrol,Manual,786758
+Volkswagen,Polo,2025,Petrol,Automatic,1103208
+Volkswagen,Polo,2025,Petrol,Manual,834988
+Volkswagen,Taigun,2019,Petrol,Automatic,1699000
+Volkswagen,Taigun,2019,Petrol,Manual,1249900
+Volkswagen,Taigun,2024,Petrol,Automatic,1762971
+Volkswagen,Taigun,2024,Petrol,Manual,1299215
+Volkswagen,Taigun,2025,Petrol,Automatic,1859719
+Volkswagen,Taigun,2025,Petrol,Manual,1365424
+Volkswagen,Vento,2020,Diesel,Manual,1399000
+Volkswagen,Vento,2020,Petrol,Automatic,1399000
+Volkswagen,Vento,2020,Petrol,Manual,1099000
+Volkswagen,Vento,2024,Diesel,Manual,1449419
+Volkswagen,Vento,2024,Petrol,Automatic,1455337
+Volkswagen,Vento,2024,Petrol,Manual,1150592
+Volkswagen,Vento,2025,Diesel,Manual,1548935
+Volkswagen,Vento,2025,Petrol,Automatic,1539347
+Volkswagen,Vento,2025,Petrol,Manual,1213822
+Hyundai,Creta,2021,Diesel,Automatic,1825000
+Hyundai,Creta,2021,Diesel,Manual,1623000
+Hyundai,Creta,2021,Petrol,Automatic,1728000
+Hyundai,Creta,2021,Petrol,Manual,1499000
+Hyundai,Creta,2024,Diesel,Automatic,2104000
+Hyundai,Creta,2024,Diesel,Manual,1856000
+Hyundai,Creta,2024,Petrol,Automatic,1999000
+Hyundai,Creta,2024,Petrol,Manual,1725000
+Hyundai,Verna,2021,Diesel,Automatic,1549000
+Hyundai,Verna,2021,Petrol,Automatic,1449000
+Hyundai,Verna,2021,Petrol,Manual,1249000
+Hyundai,Verna,2024,Diesel,Automatic,1699000
+Hyundai,Verna,2024,Petrol,Automatic,1599000
+Hyundai,Verna,2024,Petrol,Manual,1399000
+Tata,Nexon,2021,Diesel,Manual,1049000
+Tata,Nexon,2021,Petrol,Automatic,1199000
+Tata,Nexon,2021,Petrol,Manual,899000
+Tata,Nexon,2024,Diesel,Manual,1299000
+Tata,Nexon,2024,Petrol,Automatic,1449000
+Tata,Nexon,2024,Petrol,Manual,1049000
+Kia,EV6,2024,Electric,Automatic,5995000
+Kia,EV6,2025,Electric,Automatic,6199000
+Hyundai,Ioniq 5,2024,Electric,Automatic,4499000
+Hyundai,Ioniq 5,2025,Electric,Automatic,4699000
+MG,Gloster,2021,Diesel,Automatic,3298000
+MG,Gloster,2024,Diesel,Automatic,3498000
+MG,Gloster,2025,Diesel,Automatic,3698000
+Mahindra,Thar,2021,Diesel,Manual,1349000
+Mahindra,Thar,2021,Petrol,Manual,1249000
+Mahindra,Thar,2024,Diesel,Automatic,1649000
+Mahindra,Thar,2024,Diesel,Manual,1449000
+Mahindra,Thar,2024,Petrol,Automatic,1549000
+Mahindra,Thar,2024,Petrol,Manual,1349000
+Skoda,Kushaq,2021,Petrol,Automatic,1799000
+Skoda,Kushaq,2021,Petrol,Manual,1599000
+Skoda,Kushaq,2024,Petrol,Automatic,1899000
+Skoda,Kushaq,2024,Petrol,Manual,1699000
+Volkswagen,Taigun,2021,Petrol,Automatic,1799000
+Volkswagen,Taigun,2021,Petrol,Manual,1599000
+Volkswagen,Taigun,2024,Petrol,Automatic,1899000
+Volkswagen,Taigun,2024,Petrol,Manual,1699000
+Toyota,Urban Cruiser Hyryder,2024,Hybrid,Automatic,1999000
+Toyota,Urban Cruiser Hyryder,2024,Petrol,Manual,1499000
+Toyota,Urban Cruiser Hyryder,2025,Hybrid,Automatic,2099000
+Toyota,Urban Cruiser Hyryder,2025,Petrol,Manual,1599000
+BMW,3 Series,2021,Diesel,Automatic,4690000
+BMW,3 Series,2021,Petrol,Automatic,4390000
+BMW,3 Series,2024,Diesel,Automatic,5190000
+BMW,3 Series,2024,Petrol,Automatic,4890000
+BMW,5 Series,2021,Diesel,Automatic,6690000
+BMW,5 Series,2021,Petrol,Automatic,6290000
+BMW,5 Series,2024,Diesel,Automatic,7290000
+BMW,5 Series,2024,Petrol,Automatic,6890000
+Mercedes-Benz,A-Class,2021,Petrol,Automatic,4290000
+Mercedes-Benz,A-Class,2024,Petrol,Automatic,4690000
+Mercedes-Benz,C-Class,2021,Diesel,Automatic,5990000
+Mercedes-Benz,C-Class,2021,Petrol,Automatic,5690000
+Mercedes-Benz,C-Class,2024,Diesel,Automatic,6590000
+Mercedes-Benz,C-Class,2024,Petrol,Automatic,6290000
+Audi,A4,2021,Diesel,Automatic,4590000
+Audi,A4,2021,Petrol,Automatic,4390000
+Audi,A4,2024,Diesel,Automatic,5090000
+Audi,A4,2024,Petrol,Automatic,4890000
+Audi,Q3,2021,Petrol,Automatic,4490000
+Audi,Q3,2024,Petrol,Automatic,4890000
+Volvo,XC40,2021,Petrol,Automatic,4190000
+Volvo,XC40,2024,Petrol,Automatic,4590000
+Volvo,XC60,2021,Diesel,Automatic,6290000
+Volvo,XC60,2024,Diesel,Automatic,6890000
+Jaguar,XE,2021,Petrol,Automatic,4690000
+Jaguar,XE,2024,Petrol,Automatic,5190000
+Jaguar,F-PACE,2021,Diesel,Automatic,6590000
+Jaguar,F-PACE,2024,Diesel,Automatic,7190000
+Land Rover,Range Rover Evoque,2021,Diesel,Automatic,6890000
+Land Rover,Range Rover Evoque,2024,Diesel,Automatic,7490000
+Land Rover,Range Rover Velar,2021,Diesel,Automatic,7890000
+Land Rover,Range Rover Velar,2024,Diesel,Automatic,8590000
+Porsche,Macan,2021,Petrol,Automatic,8290000
+Porsche,Macan,2024,Petrol,Automatic,8990000
+Porsche,Cayenne,2021,Petrol,Automatic,12890000
+Porsche,Cayenne,2024,Petrol,Automatic,13990000
+Lexus,ES,2021,Hybrid,Automatic,5990000
+Lexus,ES,2024,Hybrid,Automatic,6590000
+Lexus,NX,2021,Hybrid,Automatic,6590000
+Lexus,NX,2024,Hybrid,Automatic,7190000
+Maserati,Ghibli,2021,Petrol,Automatic,15900000
+Maserati,Ghibli,2024,Petrol,Automatic,16900000
+Maserati,Levante,2021,Petrol,Automatic,16900000
+Maserati,Levante,2024,Petrol,Automatic,17900000
+Ferrari,Roma,2024,Petrol,Automatic,42500000
+Ferrari,Portofino,2024,Petrol,Automatic,44500000
+Lamborghini,Huracan,2024,Petrol,Automatic,38500000
+Lamborghini,Urus,2024,Petrol,Automatic,41500000
+Bentley,Bentayga,2024,Petrol,Automatic,42500000
+Bentley,Continental GT,2024,Petrol,Automatic,46900000
+Rolls-Royce,Cullinan,2024,Petrol,Automatic,69500000
+Rolls-Royce,Ghost,2024,Petrol,Automatic,62500000
+Aston Martin,DBX,2024,Petrol,Automatic,38500000
+Aston Martin,Vantage,2024,Petrol,Automatic,32500000
+McLaren,720S,2024,Petrol,Automatic,48500000
+McLaren,GT,2024,Petrol,Automatic,42500000
+Bugatti,Chiron,2024,Petrol,Automatic,249500000
+Bugatti,Veyron,2024,Petrol,Automatic,185000000
+Koenigsegg,Jesko,2024,Petrol,Automatic,289500000
+Pagani,Huayra,2024,Petrol,Automatic,325000000
+Tesla,Model S,2024,Electric,Automatic,12990000
+Tesla,Model 3,2024,Electric,Automatic,6590000
+Tesla,Model X,2024,Electric,Automatic,14990000
+Tesla,Model Y,2024,Electric,Automatic,7490000
+Rivian,R1T,2024,Electric,Automatic,15900000
+Rivian,R1S,2024,Electric,Automatic,16900000
+Lucid,Air,2024,Electric,Automatic,18900000
+Lucid,Air Dream,2024,Electric,Automatic,24900000
+Fisker,Ocean,2024,Electric,Automatic,6990000
+Fisker,PEAR,2024,Electric,Automatic,5290000
+Polestar,2,2024,Electric,Automatic,6590000
+Polestar,3,2024,Electric,Automatic,8990000
+Rimac,Nevera,2024,Electric,Automatic,169000000
+Lotus,Evija,2024,Electric,Automatic,1450000000
+Lotus,Emira,2024,Petrol,Automatic,12900000
+Alpine,A110,2024,Petrol,Automatic,8990000
+Alpine,A110S,2024,Petrol,Automatic,9990000
+Aston Martin,Valkyrie,2024,Hybrid,Automatic,289500000
+Aston Martin,Valhalla,2024,Hybrid,Automatic,189500000
+Ferrari,SF90 Stradale,2024,Hybrid,Automatic,72500000
+Ferrari,296 GTB,2024,Hybrid,Automatic,58900000
+McLaren,Artura,2024,Hybrid,Automatic,48500000
+McLaren,Elva,2024,Petrol,Automatic,225000000
+Bugatti,Bolide,2024,Petrol,Automatic,425000000
+Koenigsegg,Gemera,2024,Hybrid,Automatic,289500000
+Rimac,Concept_One,2024,Electric,Automatic,185000000
+Pininfarina,Battista,2024,Electric,Automatic,249500000
+Lamborghini,Sian,2024,Hybrid,Automatic,325000000
+Porsche,Taycan,2024,Electric,Automatic,16900000
+Porsche,Taycan Turbo S,2024,Electric,Automatic,24900000
+Audi,e-tron GT,2024,Electric,Automatic,15900000
+Audi,RS e-tron GT,2024,Electric,Automatic,19900000
+Mercedes-Benz,EQS,2024,Electric,Automatic,15900000
+Mercedes-Benz,EQS AMG,2024,Electric,Automatic,24900000
+BMW,i7,2024,Electric,Automatic,16900000
+BMW,iX,2024,Electric,Automatic,12900000

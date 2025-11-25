@@ -1,0 +1,678 @@
+{
+  "brands": [
+    "Alpine",
+    "Aston Martin",
+    "Audi",
+    "BMW",
+    "Bentley",
+    "Bugatti",
+    "Ferrari",
+    "Fisker",
+    "Ford",
+    "Honda",
+    "Hyundai",
+    "Jaguar",
+    "Jeep",
+    "Kia",
+    "Koenigsegg",
+    "Lamborghini",
+    "Land Rover",
+    "Lexus",
+    "Lotus",
+    "Lucid",
+    "MG",
+    "Mahindra",
+    "Maruti Suzuki",
+    "Maserati",
+    "McLaren",
+    "Mercedes-Benz",
+    "Nissan",
+    "Pagani",
+    "Pininfarina",
+    "Polestar",
+    "Porsche",
+    "Renault",
+    "Rimac",
+    "Rivian",
+    "Rolls-Royce",
+    "Skoda",
+    "Tata",
+    "Tesla",
+    "Toyota",
+    "Volkswagen",
+    "Volvo"
+  ],
+  "models_by_brand": {
+    "Alpine": [
+      "A110",
+      "A110S"
+    ],
+    "Aston Martin": [
+      "DBX",
+      "Valhalla",
+      "Valkyrie",
+      "Vantage"
+    ],
+    "Audi": [
+      "A4",
+      "Q3",
+      "RS e-tron GT",
+      "e-tron GT"
+    ],
+    "BMW": [
+      "3 Series",
+      "5 Series",
+      "i7",
+      "iX"
+    ],
+    "Bentley": [
+      "Bentayga",
+      "Continental GT"
+    ],
+    "Bugatti": [
+      "Bolide",
+      "Chiron",
+      "Veyron"
+    ],
+    "Ferrari": [
+      "296 GTB",
+      "Portofino",
+      "Roma",
+      "SF90 Stradale"
+    ],
+    "Fisker": [
+      "Ocean",
+      "PEAR"
+    ],
+    "Ford": [
+      "EcoSport"
+    ],
+    "Honda": [
+      "Amaze",
+      "City",
+      "WR-V"
+    ],
+    "Hyundai": [
+      "Alcazar",
+      "Creta",
+      "Ioniq 5",
+      "Tucson",
+      "Venue",
+      "Verna",
+      "i20"
+    ],
+    "Jaguar": [
+      "F-PACE",
+      "XE"
+    ],
+    "Jeep": [
+      "Compass",
+      "Meridian"
+    ],
+    "Kia": [
+      "Carnival",
+      "EV6",
+      "Seltos",
+      "Sonet"
+    ],
+    "Koenigsegg": [
+      "Gemera",
+      "Jesko"
+    ],
+    "Lamborghini": [
+      "Huracan",
+      "Sian",
+      "Urus"
+    ],
+    "Land Rover": [
+      "Range Rover Evoque",
+      "Range Rover Velar"
+    ],
+    "Lexus": [
+      "ES",
+      "NX"
+    ],
+    "Lotus": [
+      "Emira",
+      "Evija"
+    ],
+    "Lucid": [
+      "Air",
+      "Air Dream"
+    ],
+    "MG": [
+      "Astor",
+      "Gloster",
+      "Hector",
+      "Hector Plus",
+      "ZS EV"
+    ],
+    "Mahindra": [
+      "Bolero",
+      "Scorpio",
+      "Thar",
+      "XUV700"
+    ],
+    "Maruti Suzuki": [
+      "Baleno",
+      "Dzire",
+      "Ertiga",
+      "Swift",
+      "Vitara Brezza",
+      "XL6"
+    ],
+    "Maserati": [
+      "Ghibli",
+      "Levante"
+    ],
+    "McLaren": [
+      "720S",
+      "Artura",
+      "Elva",
+      "GT"
+    ],
+    "Mercedes-Benz": [
+      "A-Class",
+      "C-Class",
+      "EQS",
+      "EQS AMG"
+    ],
+    "Nissan": [
+      "Magnite"
+    ],
+    "Pagani": [
+      "Huayra"
+    ],
+    "Pininfarina": [
+      "Battista"
+    ],
+    "Polestar": [
+      "2",
+      "3"
+    ],
+    "Porsche": [
+      "Cayenne",
+      "Macan",
+      "Taycan",
+      "Taycan Turbo S"
+    ],
+    "Renault": [
+      "Duster",
+      "Kiger",
+      "Kwid"
+    ],
+    "Rimac": [
+      "Concept_One",
+      "Nevera"
+    ],
+    "Rivian": [
+      "R1S",
+      "R1T"
+    ],
+    "Rolls-Royce": [
+      "Cullinan",
+      "Ghost"
+    ],
+    "Skoda": [
+      "Kushaq",
+      "Rapid"
+    ],
+    "Tata": [
+      "Altroz",
+      "Harrier",
+      "Nexon",
+      "Punch",
+      "Safari"
+    ],
+    "Tesla": [
+      "Model 3",
+      "Model S",
+      "Model X",
+      "Model Y"
+    ],
+    "Toyota": [
+      "Fortuner",
+      "Glanza",
+      "Innova Crysta",
+      "Urban Cruiser",
+      "Urban Cruiser Hyryder"
+    ],
+    "Volkswagen": [
+      "Polo",
+      "Taigun",
+      "Vento"
+    ],
+    "Volvo": [
+      "XC40",
+      "XC60"
+    ]
+  },
+  "fuel_types_by_brand_model": {
+    "Alpine|A110": [
+      "Petrol"
+    ],
+    "Alpine|A110S": [
+      "Petrol"
+    ],
+    "Aston Martin|DBX": [
+      "Petrol"
+    ],
+    "Aston Martin|Valhalla": [
+      "Hybrid"
+    ],
+    "Aston Martin|Valkyrie": [
+      "Hybrid"
+    ],
+    "Aston Martin|Vantage": [
+      "Petrol"
+    ],
+    "Audi|A4": [
+      "Diesel",
+      "Petrol"
+    ],
+    "Audi|Q3": [
+      "Petrol"
+    ],
+    "Audi|RS e-tron GT": [
+      "Electric"
+    ],
+    "Audi|e-tron GT": [
+      "Electric"
+    ],
+    "BMW|3 Series": [
+      "Diesel",
+      "Petrol"
+    ],
+    "BMW|5 Series": [
+      "Diesel",
+      "Petrol"
+    ],
+    "BMW|i7": [
+      "Electric"
+    ],
+    "BMW|iX": [
+      "Electric"
+    ],
+    "Bentley|Bentayga": [
+      "Petrol"
+    ],
+    "Bentley|Continental GT": [
+      "Petrol"
+    ],
+    "Bugatti|Bolide": [
+      "Petrol"
+    ],
+    "Bugatti|Chiron": [
+      "Petrol"
+    ],
+    "Bugatti|Veyron": [
+      "Petrol"
+    ],
+    "Ferrari|296 GTB": [
+      "Hybrid"
+    ],
+    "Ferrari|Portofino": [
+      "Petrol"
+    ],
+    "Ferrari|Roma": [
+      "Petrol"
+    ],
+    "Ferrari|SF90 Stradale": [
+      "Hybrid"
+    ],
+    "Fisker|Ocean": [
+      "Electric"
+    ],
+    "Fisker|PEAR": [
+      "Electric"
+    ],
+    "Ford|EcoSport": [
+      "Diesel",
+      "Petrol"
+    ],
+    "Honda|Amaze": [
+      "Diesel",
+      "Petrol"
+    ],
+    "Honda|City": [
+      "Petrol"
+    ],
+    "Honda|WR-V": [
+      "Diesel",
+      "Petrol"
+    ],
+    "Hyundai|Alcazar": [
+      "Petrol"
+    ],
+    "Hyundai|Creta": [
+      "Diesel",
+      "Petrol"
+    ],
+    "Hyundai|Ioniq 5": [
+      "Electric"
+    ],
+    "Hyundai|Tucson": [
+      "Diesel",
+      "Petrol"
+    ],
+    "Hyundai|Venue": [
+      "Petrol"
+    ],
+    "Hyundai|Verna": [
+      "Diesel",
+      "Petrol"
+    ],
+    "Hyundai|i20": [
+      "Diesel",
+      "Petrol"
+    ],
+    "Jaguar|F-PACE": [
+      "Diesel"
+    ],
+    "Jaguar|XE": [
+      "Petrol"
+    ],
+    "Jeep|Compass": [
+      "Diesel",
+      "Petrol"
+    ],
+    "Jeep|Meridian": [
+      "Diesel",
+      "Petrol"
+    ],
+    "Kia|Carnival": [
+      "Diesel",
+      "Petrol"
+    ],
+    "Kia|EV6": [
+      "Electric"
+    ],
+    "Kia|Seltos": [
+      "Diesel",
+      "Petrol"
+    ],
+    "Kia|Sonet": [
+      "Diesel",
+      "Petrol"
+    ],
+    "Koenigsegg|Gemera": [
+      "Hybrid"
+    ],
+    "Koenigsegg|Jesko": [
+      "Petrol"
+    ],
+    "Lamborghini|Huracan": [
+      "Petrol"
+    ],
+    "Lamborghini|Sian": [
+      "Hybrid"
+    ],
+    "Lamborghini|Urus": [
+      "Petrol"
+    ],
+    "Land Rover|Range Rover Evoque": [
+      "Diesel"
+    ],
+    "Land Rover|Range Rover Velar": [
+      "Diesel"
+    ],
+    "Lexus|ES": [
+      "Hybrid"
+    ],
+    "Lexus|NX": [
+      "Hybrid"
+    ],
+    "Lotus|Emira": [
+      "Petrol"
+    ],
+    "Lotus|Evija": [
+      "Electric"
+    ],
+    "Lucid|Air": [
+      "Electric"
+    ],
+    "Lucid|Air Dream": [
+      "Electric"
+    ],
+    "MG|Astor": [
+      "Petrol"
+    ],
+    "MG|Gloster": [
+      "Diesel"
+    ],
+    "MG|Hector": [
+      "Diesel",
+      "Petrol"
+    ],
+    "MG|Hector Plus": [
+      "Diesel",
+      "Petrol"
+    ],
+    "MG|ZS EV": [
+      "Electric"
+    ],
+    "Mahindra|Bolero": [
+      "Diesel",
+      "Petrol"
+    ],
+    "Mahindra|Scorpio": [
+      "Diesel",
+      "Petrol"
+    ],
+    "Mahindra|Thar": [
+      "Diesel",
+      "Petrol"
+    ],
+    "Mahindra|XUV700": [
+      "Diesel",
+      "Petrol"
+    ],
+    "Maruti Suzuki|Baleno": [
+      "Petrol"
+    ],
+    "Maruti Suzuki|Dzire": [
+      "Diesel",
+      "Petrol"
+    ],
+    "Maruti Suzuki|Ertiga": [
+      "Petrol"
+    ],
+    "Maruti Suzuki|Swift": [
+      "Diesel",
+      "Petrol"
+    ],
+    "Maruti Suzuki|Vitara Brezza": [
+      "Petrol"
+    ],
+    "Maruti Suzuki|XL6": [
+      "Petrol"
+    ],
+    "Maserati|Ghibli": [
+      "Petrol"
+    ],
+    "Maserati|Levante": [
+      "Petrol"
+    ],
+    "McLaren|720S": [
+      "Petrol"
+    ],
+    "McLaren|Artura": [
+      "Hybrid"
+    ],
+    "McLaren|Elva": [
+      "Petrol"
+    ],
+    "McLaren|GT": [
+      "Petrol"
+    ],
+    "Mercedes-Benz|A-Class": [
+      "Petrol"
+    ],
+    "Mercedes-Benz|C-Class": [
+      "Diesel",
+      "Petrol"
+    ],
+    "Mercedes-Benz|EQS": [
+      "Electric"
+    ],
+    "Mercedes-Benz|EQS AMG": [
+      "Electric"
+    ],
+    "Nissan|Magnite": [
+      "Petrol",
+      "Turbo"
+    ],
+    "Pagani|Huayra": [
+      "Petrol"
+    ],
+    "Pininfarina|Battista": [
+      "Electric"
+    ],
+    "Polestar|2": [
+      "Electric"
+    ],
+    "Polestar|3": [
+      "Electric"
+    ],
+    "Porsche|Cayenne": [
+      "Petrol"
+    ],
+    "Porsche|Macan": [
+      "Petrol"
+    ],
+    "Porsche|Taycan": [
+      "Electric"
+    ],
+    "Porsche|Taycan Turbo S": [
+      "Electric"
+    ],
+    "Renault|Duster": [
+      "Diesel",
+      "Petrol"
+    ],
+    "Renault|Kiger": [
+      "Petrol",
+      "Turbo"
+    ],
+    "Renault|Kwid": [
+      "Petrol"
+    ],
+    "Rimac|Concept_One": [
+      "Electric"
+    ],
+    "Rimac|Nevera": [
+      "Electric"
+    ],
+    "Rivian|R1S": [
+      "Electric"
+    ],
+    "Rivian|R1T": [
+      "Electric"
+    ],
+    "Rolls-Royce|Cullinan": [
+      "Petrol"
+    ],
+    "Rolls-Royce|Ghost": [
+      "Petrol"
+    ],
+    "Skoda|Kushaq": [
+      "Petrol"
+    ],
+    "Skoda|Rapid": [
+      "Diesel",
+      "Petrol"
+    ],
+    "Tata|Altroz": [
+      "Diesel",
+      "Petrol"
+    ],
+    "Tata|Harrier": [
+      "Diesel",
+      "Petrol"
+    ],
+    "Tata|Nexon": [
+      "Diesel",
+      "Electric",
+      "Petrol"
+    ],
+    "Tata|Punch": [
+      "CNG",
+      "Petrol"
+    ],
+    "Tata|Safari": [
+      "Diesel",
+      "Petrol"
+    ],
+    "Tesla|Model 3": [
+      "Electric"
+    ],
+    "Tesla|Model S": [
+      "Electric"
+    ],
+    "Tesla|Model X": [
+      "Electric"
+    ],
+    "Tesla|Model Y": [
+      "Electric"
+    ],
+    "Toyota|Fortuner": [
+      "Diesel",
+      "Petrol"
+    ],
+    "Toyota|Glanza": [
+      "Petrol"
+    ],
+    "Toyota|Innova Crysta": [
+      "Diesel",
+      "Petrol"
+    ],
+    "Toyota|Urban Cruiser": [
+      "Petrol"
+    ],
+    "Toyota|Urban Cruiser Hyryder": [
+      "Hybrid",
+      "Petrol"
+    ],
+    "Volkswagen|Polo": [
+      "Petrol"
+    ],
+    "Volkswagen|Taigun": [
+      "Petrol"
+    ],
+    "Volkswagen|Vento": [
+      "Diesel",
+      "Petrol"
+    ],
+    "Volvo|XC40": [
+      "Petrol"
+    ],
+    "Volvo|XC60": [
+      "Diesel"
+    ]
+  },
+  "fuel_types": [
+    "CNG",
+    "Diesel",
+    "Electric",
+    "Hybrid",
+    "Petrol",
+    "Turbo"
+  ],
+  "transmissions": [
+    "Automatic",
+    "Manual"
+  ],
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "year_range": {
+    "min": 2019,
+    "max": 2025
+  }
+}
